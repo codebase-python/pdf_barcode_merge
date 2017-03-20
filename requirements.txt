@@ -1,0 +1,5 @@
+pdfkit==0.6.1
+webkit2png==0.8.2
+wand==0.4.4
+reportlab==3.4.0
+pdfcrowd==2.7
