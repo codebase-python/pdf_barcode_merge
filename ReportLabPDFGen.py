@@ -33,7 +33,7 @@ class BarcodeRender(Drawing):
 
 
 def sampleTablePDF():
-    logo = "cimpress_sample.png"
+    logo = "cimpress_sample.jpg"
     cup = "coffee-cup.jpg"
     imCup = Image(cup)
 
